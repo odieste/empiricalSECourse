@@ -23,22 +23,22 @@
 #A simple experiment
 - A scholar wants to know if technique A (say functional testing) is better than B (say inspection)
 - He performs an experiment with some students and gets the following data (metric doesn’t matter):
-![text](Data_Analysis_1_images/figure1.png)
+![example table](Data_Analysis_1_images/figure1.png)
 
 #Question
 - How can we decide which technique (A, B) is better?
 - The most obvious option is looking at the data:
 — Descriptive statistics
-	—- Median, means
-	—- Quartiles, variances, standard deviation
+	— - Median, means
+	— - Quartiles, variances, standard deviation
 — and suitable plots
 	— Box plots
 
 #Box plot
-![text](Data_Analysis_1_images/figure2.png)
+![box-plot](Data_Analysis_1_images/figure2.png)
 - Preliminary answer
-	-— B looks better, but the results are quite similar. We cannot be sure
-	—-  It is likely that differences arise due to random chance
-	—- Don’t believe it? Try to toss a coin 4 times and guess the number of heads you obtain 
+	- — B looks better, but the results are quite similar. We cannot be sure
+	— -  It is likely that differences arise due to random chance
+	— - Don’t believe it? Try to toss a coin 4 times and guess the number of heads you obtain 
 - As we can see from this example, many processes have an associated probability distribution
-	— How can we make a decision on this case?
+	- - How can we make a decision on this case?
