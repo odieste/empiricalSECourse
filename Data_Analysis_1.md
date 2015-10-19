@@ -3,10 +3,10 @@
 % Oscar Dieste
 
 # Goal
-## Experiments don’t have to be complicated. They can be so simple as comparing a pair of techniques
-- 1 factor with 2 levels
-## In cases like these, we don’t need expensive tools (SPSS, STATA, etc.) to analyze the experimental results
-## We will learn how to test hypothesis using paper and pencil
+- Experiments don’t have to be complicated. They can be so simple as comparing a pair of techniques
+-- 1 factor with 2 levels
+- In cases like these, we don’t need expensive tools (SPSS, STATA, etc.) to analyze the experimental results
+- We will learn how to test hypothesis using paper and pencil
 
 # Outline
 ## Descriptive statistics
