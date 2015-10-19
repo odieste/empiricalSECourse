@@ -20,11 +20,9 @@
 
 - Eat spaghetti
 
-![picture of spaghetti](example_images/spaghetti.jpeg)
+![](example_images/spaghetti.jpeg)
 
 - Drink wine
-
-
 
 ## Going to sleep
 
