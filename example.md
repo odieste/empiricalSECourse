@@ -19,11 +19,12 @@
 ## Dinner
 
 - Eat spaghetti
+
+![picture of spaghetti](example_images/spaghetti.jpeg)
+
 - Drink wine
 
-------------------
 
-![picture of spaghetti](images/spaghetti.jpg)
 
 ## Going to sleep
 
