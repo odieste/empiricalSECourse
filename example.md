@@ -20,7 +20,7 @@
 
 - Eat spaghetti
 
-<img style="float: center;" src="example_images/spaghetti.jpeg">
+<center>![](example_images/spaghetti.jpeg)</center>
 
 - Drink wine
 
