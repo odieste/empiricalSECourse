@@ -1,6 +1,6 @@
 % Data Analysis 101
-% Parallel experiments
-% Oscar Dieste
+% The Empirical Commons
+% October 20th, 2015
 
 # Goal
 - Experiments don’t have to be complicated. They can be so simple as comparing a pair of techniques
