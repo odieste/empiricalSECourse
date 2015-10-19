@@ -1,6 +1,6 @@
 ## Why Make the Move to Plain Text Slides?
 
-![text](images/text.jpg)
+![text](images/th.jpeg)
 
 ---
 = data-x="1000" data-y="-500" 
