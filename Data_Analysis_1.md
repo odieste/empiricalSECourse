@@ -23,7 +23,7 @@
 #A simple experiment
 - A scholar wants to know if technique A (say functional testing) is better than B (say inspection)
 - He performs an experiment with some students and gets the following data (metric doesn’t matter):
-![text](Data_Analysis_1_images/figure1.jpeg)
+![text](Data_Analysis_1_images/figure1.png)
 
 #Question
 - How can we decide which technique (A, B) is better?
@@ -35,7 +35,7 @@
 	— Box plots
 
 #Box plot
-![text](Data_Analysis_1_images/figure2.jpeg)
+![text](Data_Analysis_1_images/figure2.png)
 - Preliminary answer
 	-— B looks better, but the results are quite similar. We cannot be sure
 	—-  It is likely that differences arise due to random chance
